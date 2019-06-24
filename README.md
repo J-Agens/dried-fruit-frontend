@@ -1,8 +1,8 @@
 ## Chatroom App
-App that allows users to create an account send messages in a chatroom
+App that allows users to create an account send messages in a chatroom. A message can be liked by clicking the heart next to it. Currently, there is only one chatroom.
 
 ## Background
-This project was created by John Agens and Yevgeniy Sobolev.
+This project was created as a part of the immersive web development program at Flatiron School in 2019 by John Agens and Yevgeniy Sobolev. Our goal was to create a basic chat application that would allow users to send messages back and forth in real time.
 
 ## Build status
 Build status of continus integration i.e. travis, appveyor etc. Ex. - 
