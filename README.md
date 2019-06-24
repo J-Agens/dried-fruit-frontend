@@ -5,48 +5,35 @@ This is a web application that allows users to create an account send messages i
 This project was created as a part of the immersive web development program at Flatiron School in 2019 by John Agens and Yevgeniy Sobolev. Our goal was to create a basic chat application that would allow users to send messages back and forth in real time.
  
 ## Demo
-Include logo/demo screenshot etc.
+Follow [this link](https://mighty-brook-84043.herokuapp.com/)
+and log in with either
+
+**Username: John** *or* **Username: Yev**
+**Password: 123**
+
+Or you can create your own account by clicking the Sign Up button on the homescreen.
+You might have to wait a few seconds and refresh to make sure the backend is awake because it's hosted on a free Heroku account.
 
 **Video**
 
-<a href="https://youtu.be/vG-TYezGyTM" target="_blank">![image](https://user-images.githubusercontent.com/19267312/60047520-e653f200-9697-11e9-96e2-ec3ae97cd0f9.png)
+<a href="https://youtu.be/vG-TYezGyTM" target="_blank">![image](https://user-images.githubusercontent.com/19267312/60053428-d3481e80-96a5-11e9-9461-d2ef693ab1b7.png)
 </a>
 
 ## Tech/framework used
-Ex. -
 
 <b>Built with</b>
-- [Electron](https://electron.atom.io)
+* Rails API backend
+* React Front End
+* JSON web tokens for client-side auth
+* ActionCable web sockets
+* Semantic UI styling 
 
 ## Features
-What makes your project stand out?
-
-## Code Example
-Show what the library does as concisely as possible, developers should be able to figure out **how** your project solves their problem by looking at the code example. Make sure the API you are showing off is obvious, and that your code is short and concise.
+* Wrote a Ruby on Rails API to manage chatroom, user, and message data.
+* Allowed for real-time chat functionality with ActionCable web sockets.
+* Implemented client-side authentication using JSON web tokens.
+* Designed the front end using the React framework to efficiently manage the DOM.
 
 ## Installation
 Provide step by step series of examples and explanations about how to get a development env running.
 
-## API Reference
-
-Depending on the size of the project, if it is small and simple enough the reference docs can be added to the README. For medium size to larger projects it is important to at least provide a link to where the API reference docs live.
-
-## Tests
-Describe and show how to run the tests with code examples.
-
-## How to use?
-If people like your project they’ll want to learn how they can use it. To do so include step by step guide to use your project.
-
-## Contribute
-
-Let people know how they can contribute into your project. A [contributing guideline](https://github.com/zulip/zulip-electron/blob/master/CONTRIBUTING.md) will be a big plus.
-
-## Credits
-Give proper credits. This could be a link to any repo which inspired you to build this project, any blogposts or links to people who contrbuted in this project. 
-
-#### Anything else that seems useful
-
-## License
-A short snippet describing the license (MIT, Apache etc)
-
-MIT © [Yourname]()
