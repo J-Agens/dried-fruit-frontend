@@ -1,19 +1,8 @@
 ## Chatroom App
-App that allows users to create an account send messages in a chatroom. A message can be liked by clicking the heart next to it. Currently, there is only one chatroom.
+This is a web application that allows users to create an account send messages in a chatroom. A message can be liked by clicking the heart next to it. Currently, there is only one chatroom.
 
 ## Background
 This project was created as a part of the immersive web development program at Flatiron School in 2019 by John Agens and Yevgeniy Sobolev. Our goal was to create a basic chat application that would allow users to send messages back and forth in real time.
-
-## Build status
-Build status of continus integration i.e. travis, appveyor etc. Ex. - 
-
-[![Build Status](https://travis-ci.org/akashnimare/foco.svg?branch=master)](https://travis-ci.org/akashnimare/foco)
-[![Windows Build Status](https://ci.appveyor.com/api/projects/status/github/akashnimare/foco?branch=master&svg=true)](https://ci.appveyor.com/project/akashnimare/foco/branch/master)
-
-## Code style
-If you're using any code style like xo, standard etc. That will help others while contributing to your project. Ex. -
-
-[![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
  
 ## Screenshots
 Include logo/demo screenshot etc.
