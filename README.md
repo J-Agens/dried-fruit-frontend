@@ -8,7 +8,7 @@ This project was created as a part of the immersive web development program at F
 Follow [this link](https://mighty-brook-84043.herokuapp.com/)
 and log in with either
 
-**Username: John** *or* 
+**Username: John** *or* <br />
 **Username: Yev**
 **Password: 123**
 
