@@ -1,8 +1,8 @@
 ## Chatroom App
 App that allows users to create an account send messages in a chatroom
 
-## Motivation
-A short description of the motivation behind the creation and maintenance of the project. This should explain **why** the project exists.
+## Background
+This project was created by John Agens and Yevgeniy Sobolev.
 
 ## Build status
 Build status of continus integration i.e. travis, appveyor etc. Ex. - 
