@@ -8,8 +8,8 @@ This project was created as a part of the immersive web development program at F
 Follow [this link](https://mighty-brook-84043.herokuapp.com/)
 and log in with either
 
-**Username: John** *or* <br />
-**Username: Yev**
+**Username: John** <br /> *or* <br />
+**Username: Yev** <br />
 **Password: 123**
 
 Or you can create your own account by clicking the Sign Up button on the homescreen.
