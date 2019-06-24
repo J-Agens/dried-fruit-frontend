@@ -36,7 +36,7 @@ You might have to wait a few seconds and refresh to make sure the backend is awa
 * Designed the front end using the React framework to efficiently manage the DOM.
 
 ## Installation
-* **Clone down and install the [backend](https://github.com/J-Agens/dried-fruit-backend) first.**
+* **Clone down and install the [backend](https://github.com/J-Agens/dried-fruit-backend#installation) first.**
 * Clone down this repo <br /> `$ git clone <repo url>`
 * Navigate into the directory <br /> `$ cd dried-fruit-frontend`
 * Run `$ npm install`
