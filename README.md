@@ -4,8 +4,13 @@ This is a web application that allows users to create an account send messages i
 ## Background
 This project was created as a part of the immersive web development program at Flatiron School in 2019 by John Agens and Yevgeniy Sobolev. Our goal was to create a basic chat application that would allow users to send messages back and forth in real time.
  
-## Screenshots
+## Demo
 Include logo/demo screenshot etc.
+
+**Video**
+
+<a href="https://youtu.be/vG-TYezGyTM" target="_blank">![image](https://user-images.githubusercontent.com/19267312/60047520-e653f200-9697-11e9-96e2-ec3ae97cd0f9.png)
+</a>
 
 ## Tech/framework used
 Ex. -
